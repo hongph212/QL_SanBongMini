@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\TKCSDL\QLSANBONG\bin\Debug\QLSANBONG.exe.config
+C:\Users\Admin\Desktop\TKCSDL\QLSANBONG\bin\Debug\QLSANBONG.exe
+C:\Users\Admin\Desktop\TKCSDL\QLSANBONG\bin\Debug\QLSANBONG.pdb
+C:\Users\Admin\Desktop\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.Form1.resources
+C:\Users\Admin\Desktop\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.Properties.Resources.resources
+C:\Users\Admin\Desktop\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.exe
+C:\Users\Admin\Desktop\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\TKCSDL\QLSANBONG\bin\Debug\QLSANBONG.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.exe
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\TKCSDL\QLSANBONG\bin\Debug\QLSANBONG.exe
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\TKCSDL\QLSANBONG\bin\Debug\QLSANBONG.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.Form1.resources
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\QLSanBong_DeTai22\TKCSDL\QLSANBONG\bin\Debug\QLSANBONG.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\QLSanBong_DeTai22\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.exe
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\QLSanBong_DeTai22\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\QLSanBong_DeTai22\TKCSDL\QLSANBONG\bin\Debug\QLSANBONG.exe
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\QLSanBong_DeTai22\TKCSDL\QLSANBONG\bin\Debug\QLSANBONG.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\QLSanBong_DeTai22\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\QLSanBong_DeTai22\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.Form1.resources
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\QLSanBong_DeTai22\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\Thiết kế CSDL\QLSanBong_DeTai22\TKCSDL\QLSANBONG\obj\Debug\QLSANBONG.csproj.GenerateResource.Cache
